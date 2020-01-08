@@ -1,0 +1,47 @@
+[33mcommit fd062891d4966cb1cd46fb8ab91c72f49a2e25fd[m[33m ([m[1;36mHEAD -> [m[1;32mre-form[m[33m)[m
+Author: Vinicius Campos <vcampos.pitangui@gmail.com>
+Date:   Wed Jan 8 12:41:01 2020 -0300
+
+    Update readme file
+
+[33mcommit 6901918b57fb7cd888e91746be1023f4847c0983[m
+Author: Selma Datagirl <datagirlcmr@gmail.com>
+Date:   Wed Jan 8 09:39:48 2020 -0600
+
+    added the stickler and rubocop files
+
+[33mcommit 0f3931c93f6b2e4809793bc9f85ca8e4ca4a9fbb[m
+Author: Vinicius Campos <vcampos.pitangui@gmail.com>
+Date:   Wed Jan 8 12:28:42 2020 -0300
+
+    Modify new user form to use form_for, Create user edit form using form_for; Show errors when try to create or edit invalid user
+
+[33mcommit 5bb148641261e735af6233c154984ad8ab73dd62[m
+Author: Selma Datagirl <datagirlcmr@gmail.com>
+Date:   Tue Jan 7 16:13:30 2020 -0600
+
+    Converted the <form> tag to use a #form_tag helper
+
+[33mcommit f5b281385727e04a4e688b4829e73c46a1752f35[m
+Author: Vinicius Campos <vcampos.pitangui@gmail.com>
+Date:   Tue Jan 7 18:42:12 2020 -0300
+
+    Create new user form, Set user controller to work with form POST
+
+[33mcommit 56542895ee360502af686554c50d148c40dc513c[m
+Author: Selma Datagirl <datagirlcmr@gmail.com>
+Date:   Tue Jan 7 14:57:37 2020 -0600
+
+    created the users controller and views
+
+[33mcommit e27669255145359173428efe8ced5ade8c00993d[m
+Author: Selma Datagirl <datagirlcmr@gmail.com>
+Date:   Tue Jan 7 14:44:46 2020 -0600
+
+    created the User Model, and the validations for the attributes
+
+[33mcommit c8762d25b264753531f7ec2ccbc2ac1bd1b55ab5[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/develop[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mdevelop[m[33m)[m
+Author: Selma Datagirl <datagirlcmr@gmail.com>
+Date:   Tue Jan 7 14:30:47 2020 -0600
+
+    initial commit

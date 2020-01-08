@@ -11,11 +11,11 @@
 <% end %>
 
 <%= form_for @user do |f| %>
-  <%= label_tag(:username) %>
+  <%= f.label(:username) %>
   <%= f.text_field :username %>
-  <%= label_tag(:password) %>
+  <%= f.label(:password) %>
   <%= f.password_field :password %>
-  <%= label_tag(:email) %>
+  <%= f.label(:email) %>
   <%= f.email_field :email, placeholder: "yourmail@mail.com" %>
   <%= f.submit "Submit" %>
 <% end %>
